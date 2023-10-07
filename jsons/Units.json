@@ -25,7 +25,7 @@
 		"range": 4,
 		"cost": 900,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Petroleum",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "tiroteio_no_rio_de_janeiro_ta_rolando_audiosparazap.com"
 	}
