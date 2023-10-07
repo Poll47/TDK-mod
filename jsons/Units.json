@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Metralhadora",
+		"name": "Matador de Aluguel",
 		"unitType": "Ranged",
 		"uniqueTo": "TDK",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 70,
-		"rangedStrength": 40,
-		"range": 2,
-		"cost": 500,
+		"movement": 4,
+		"strength": 80,
+		"rangedStrength": 60,
+		"range": 4,
+		"cost": 100,
 		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","Drill I"],
 		"attackSound": "tiroteio_no_rio_de_janeiro_ta_rolando_audiosparazap.com"
 	}
 
@@ -19,14 +19,13 @@
 		"unitType": "Ranged",
 		"uniqueTo": "TDK",
 		"replaces": "Tank",
-		"movement": 6,
+		"movement": 8,
 		"strength": 120,
 		"rangedStrength": 90,
-		"range": 4,
-		"cost": 900,
+		"range": 6,
+		"cost": 125,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Siege I"],
 		"attackSound": "tiroteio_no_rio_de_janeiro_ta_rolando_audiosparazap.com"
 	}
 ]
