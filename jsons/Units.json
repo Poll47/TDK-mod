@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Metralhadora",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "TDK",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -10,7 +10,23 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+
+	{
+		"name": "Carro bicho",
+		"unitType": "Ranged",
+		"uniqueTo": "TDK",
+		"replaces": "Tank",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"requiredResource": "Petroleum",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
