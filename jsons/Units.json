@@ -12,7 +12,7 @@
 		"requiredTech": "Ballistics",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "tiroteio_no_rio_de_janeiro_ta_rolando_audiosparazap.com"
 	}
 
 	{
@@ -28,6 +28,6 @@
 		"requiredTech": "Ballistics",
 		"requiredResource": "Petroleum",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "tiroteio_no_rio_de_janeiro_ta_rolando_audiosparazap.com"
 	}
 ]
