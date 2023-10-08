@@ -3,14 +3,13 @@
 		"name": "Fundão",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "TDK",
-		"cost": 480,
+		"cost": 170,
 		"happiness": 15,
 		"culture": 20,
 		"science": 12,
-		"maintenance": 96,
+		"maintenance": 50,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Atacadão dos Doces",
